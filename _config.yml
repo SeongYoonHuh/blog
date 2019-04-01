@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Site Title"
+title                    : "Today I Learned"
 title_separator          : "-"
 name                     : "Seong Yoon Huh"
 description              : "Today I Learned website."
-url                      : "https://seongyoonhuh.github.io/project/"
+url                      : "https://seongyoonhuh.github.io/blog/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -109,7 +109,7 @@ author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "Gangwon-Do, Republic of Korea"
   email            :
   links:
     - label: "Email"
