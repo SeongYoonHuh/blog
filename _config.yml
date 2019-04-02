@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Name"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/MapleStory_Espera_Quentize.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Gangwon-Do, Republic of Korea"
   email            :
